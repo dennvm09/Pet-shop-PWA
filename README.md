@@ -1,5 +1,3 @@
-# newapp
-
 ## Project setup
 ```
 npm install
