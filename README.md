@@ -1,7 +1,7 @@
 # Pet-shop
 
 
-- **Workshop** - Lerning how to use Vue.js in Web Dev Class.
+- **Workshop** - Learning how to use Vue.js in Web Dev Class.
 - **Class:** Web Development (PWA)
 
 
