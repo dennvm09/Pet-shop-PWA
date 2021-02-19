@@ -1,3 +1,10 @@
+# Pet-shop
+
+
+- **Workshop** - Lerning how to use Vue.js in Web Dev Class.
+- **Class:** Web Development (PWA)
+
+
 ## Project setup
 ```
 npm install
