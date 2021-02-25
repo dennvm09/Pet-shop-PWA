@@ -9,6 +9,11 @@
               <v-btn to="/">Home</v-btn>
               <v-btn to="pets">Pets</v-btn>
             </v-toolbar-items>
+            <v-spacer></v-spacer>
+            <router-link to="/favorites">
+                <v-icon large>loyalty</v-icon>
+            </router-link>
+            
           </v-toolbar>
           <v-btn @click="themeSwitched=!themeSwitched">Switch theme</v-btn>
 				</header>
@@ -120,6 +125,10 @@ img {
 
 .bisque {
   background-color: #f0f7f4;
+}
+
+a {
+  text-decoration: none;
 }
 
 /*orange and green*/
